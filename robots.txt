@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehiela.asbjorn.tech/sitemap.xml
